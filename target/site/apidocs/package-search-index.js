@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ch.unil.doplab.grocerystorewebsite.v2.beans"},{"l":"ch.unil.doplab.grocerystorewebsite.v2.database"},{"l":"ch.unil.doplab.grocerystorewebsite.v2.exceptions"},{"l":"ch.unil.doplab.grocerystorewebsite.v2.models"},{"l":"ch.unil.doplab.grocerystorewebsite.v2.resources"}];updateSearchResults();

@@ -1,0 +1,79 @@
+@options
+@packages
+-classpath
+'/Users/admin/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar:/Users/admin/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar:/Users/admin/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar:/Users/admin/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar:/Users/admin/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar:/Users/admin/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar:/Users/admin/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar:/Users/admin/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar:/Users/admin/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar:/Users/admin/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar:/Users/admin/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar:/Users/admin/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar:/Users/admin/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar:/Users/admin/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar:/Users/admin/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar:/Users/admin/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar:/Users/admin/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar:/Users/admin/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar:/Users/admin/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar:/Users/admin/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar:/Users/admin/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar:/Users/admin/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GroceryStoreWebsite-v2-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'GroceryStoreWebsite-v2-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+ch.unil.doplab.grocerystorewebsite.v2.database
+ch.unil.doplab.grocerystorewebsite.v2.resources
+ch.unil.doplab.grocerystorewebsite.v2.models
+ch.unil.doplab.grocerystorewebsite.v2.exceptions
+ch.unil.doplab.grocerystorewebsite.v2.beans
+/Users/admin/.m2/repository/jakarta/platform/jakarta.jakartaee-api/10.0.0/jakarta.jakartaee-api-10.0.0.jar = 1694080141053
+/Users/admin/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/10.0.0/jakarta.jakartaee-web-api-10.0.0.jar = 1694080141176
+/Users/admin/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar = 1694080141248
+/Users/admin/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/3.1.0/jakarta.servlet.jsp-api-3.1.0.jar = 1694080141194
+/Users/admin/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar = 1694080141188
+/Users/admin/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar = 1694080141185
+/Users/admin/.m2/repository/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar = 1694080141246
+/Users/admin/.m2/repository/jakarta/ws/rs/jakarta.ws.rs-api/3.1.0/jakarta.ws.rs-api-3.1.0.jar = 1679477745404
+/Users/admin/.m2/repository/jakarta/websocket/jakarta.websocket-api/2.1.0/jakarta.websocket-api-2.1.0.jar = 1694080141208
+/Users/admin/.m2/repository/jakarta/websocket/jakarta.websocket-client-api/2.1.0/jakarta.websocket-client-api-2.1.0.jar = 1694080141217
+/Users/admin/.m2/repository/jakarta/json/jakarta.json-api/2.1.0/jakarta.json-api-2.1.0.jar = 1694080141238
+/Users/admin/.m2/repository/jakarta/json/bind/jakarta.json.bind-api/3.0.0/jakarta.json.bind-api-3.0.0.jar = 1679477745389
+/Users/admin/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar = 1694080141250
+/Users/admin/.m2/repository/jakarta/ejb/jakarta.ejb-api/4.0.1/jakarta.ejb-api-4.0.1.jar = 1694080141252
+/Users/admin/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar = 1694080141260
+/Users/admin/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar = 1694080141271
+/Users/admin/.m2/repository/jakarta/validation/jakarta.validation-api/3.0.2/jakarta.validation-api-3.0.2.jar = 1694080141275
+/Users/admin/.m2/repository/jakarta/interceptor/jakarta.interceptor-api/2.1.0/jakarta.interceptor-api-2.1.0.jar = 1694080141272
+/Users/admin/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/4.0.1/jakarta.enterprise.cdi-api-4.0.1.jar = 1694080141291
+/Users/admin/.m2/repository/jakarta/enterprise/jakarta.enterprise.lang-model/4.0.1/jakarta.enterprise.lang-model-4.0.1.jar = 1694080141284
+/Users/admin/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar = 1694080141293
+/Users/admin/.m2/repository/jakarta/authentication/jakarta.authentication-api/3.0.0/jakarta.authentication-api-3.0.0.jar = 1694080141293
+/Users/admin/.m2/repository/jakarta/security/enterprise/jakarta.security.enterprise-api/3.0.0/jakarta.security.enterprise-api-3.0.0.jar = 1694080141311
+/Users/admin/.m2/repository/jakarta/jms/jakarta.jms-api/3.1.0/jakarta.jms-api-3.1.0.jar = 1694080141302
+/Users/admin/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar = 1694080141308
+/Users/admin/.m2/repository/jakarta/mail/jakarta.mail-api/2.1.0/jakarta.mail-api-2.1.0.jar = 1694080141343
+/Users/admin/.m2/repository/jakarta/resource/jakarta.resource-api/2.1.0/jakarta.resource-api-2.1.0.jar = 1694080141311
+/Users/admin/.m2/repository/jakarta/authorization/jakarta.authorization-api/2.1.0/jakarta.authorization-api-2.1.0.jar = 1694080141328
+/Users/admin/.m2/repository/jakarta/batch/jakarta.batch-api/2.1.1/jakarta.batch-api-2.1.1.jar = 1694080141332
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/src/main/java = 1694086606830
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/tag-search-index.js = 1699536324308
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/overview-tree.html = 1699536324280
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/module-search-index.js = 1699536324306
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/index.html = 1699536324284
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/package-search-index.js = 1699536324306
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/jquery-ui.overrides.css = 1699536324336
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/serialized-form.html = 1699536324221
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/index-all.html = 1699536324325
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/allpackages-index.html = 1699536324305
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/member-search-index.js = 1699536324307
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/script.js = 1699536324330
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/stylesheet.css = 1699536324329
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/overview-summary.html = 1699536324326
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/help-doc.html = 1699536324328
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/element-list = 1699536324180
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/allclasses-index.html = 1699536324304
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/type-search-index.js = 1699536324307
+/Users/admin/Desktop/GitHub/SOAR/2023/GroceryStoreWebsite-v2/target/site/apidocs/search.js = 1699536324331

@@ -1,0 +1,15 @@
+ch/unil/doplab/grocerystorewebsite/v2/database/MockDatabase$1.class
+ch/unil/doplab/grocerystorewebsite/v2/resources/JAXRSConfiguration.class
+ch/unil/doplab/grocerystorewebsite/v2/exceptions/DoesNotExistException.class
+ch/unil/doplab/grocerystorewebsite/v2/beans/UserBean.class
+ch/unil/doplab/grocerystorewebsite/v2/models/User.class
+ch/unil/doplab/grocerystorewebsite/v2/exceptions/AlreadyExistsException.class
+ch/unil/doplab/grocerystorewebsite/v2/database/MockDatabase$3.class
+ch/unil/doplab/grocerystorewebsite/v2/database/MockDatabase.class
+ch/unil/doplab/grocerystorewebsite/v2/resources/JavaEE8Resource.class
+ch/unil/doplab/grocerystorewebsite/v2/database/MockDatabase$2.class
+ch/unil/doplab/grocerystorewebsite/v2/beans/FoodBean.class
+ch/unil/doplab/grocerystorewebsite/v2/beans/LoginBean.class
+ch/unil/doplab/grocerystorewebsite/v2/models/ShoppingCart.class
+ch/unil/doplab/grocerystorewebsite/v2/models/Food.class
+ch/unil/doplab/grocerystorewebsite/v2/exceptions/InsufficientBalanceException.class
